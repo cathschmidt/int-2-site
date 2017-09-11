@@ -1,7 +1,8 @@
 ---
 
-layout: default
-title: Hello World
+layout: inner
+title: Project 1
+back: projects
 
 ---
 

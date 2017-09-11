@@ -1,11 +1,10 @@
 ---
 
-layout: default
-title: Hello World
+layout: inner
+title: Schedule — Week 1
+back: schedule
 
 ---
-
-[back](/schedule.html)
 
 # Week 1
 

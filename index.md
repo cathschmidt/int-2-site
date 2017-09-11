@@ -1,7 +1,7 @@
 ---
 
 layout: home
-title: Hello World
+title: Home
 
 ---
 
@@ -9,12 +9,16 @@ title: Hello World
 
 California College of the Arts
 
-Spring 2017
+Fall 2017
 
 Interactive 2, GRAPH-228-02
 
 SF Main Campus, Room 250
+
 Tuesday, Thursday 4–7pm
 
-Instructor: Catherine Leigh Schmidt, cschmidt@cca.edu
-TA: Clement, rkalil@cca.edu
+Instructor:  
+Catherine Leigh Schmidt, cschmidt@cca.edu
+
+TA:  
+Clement Liu, ziwei.liu@cca.edu

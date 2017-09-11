@@ -17,7 +17,9 @@ This course is open to ~15 students. It is a required course for graphic design 
 
 This course focuses on interaction design with projects that are based online. Questions asked during the course include:
 
-— Is it specific?— Is it memorable?— Does it communicate the idea through its form?
+— Is it specific?  
+— Is it memorable?  
+— Does it communicate the idea through its form?
 
  _(This course has a formal emphasis, using what knowledge students have about composition, typography, and hierarchy as a basis.)_
 
@@ -49,7 +51,7 @@ In this  [google doc](https://docs.google.com/a/cca.edu/document/d/1SkuzGe6FmdK
 
 ## PROJECTS
 
- _See Projects _
+ _See Projects_
 
 ## EVALUATION
 
@@ -57,19 +59,16 @@ In this class, students will strive to make memorable, functional online experie
 
 ## GRADING
 
-30% ... P1
-
-30% ... P2
-
-30% ... P3
-
+30% ... P1  
+30% ... P2  
+30% ... P3  
 10% ... Reading questions and presentation
 
 Letter grades represent the following: A = excellent; B = good; C = satisfactory; D = unsatisfactory; F = failure. A grade of C- or less is considered a failing grade for required courses within the major, and you will need to retake this course if you achieve a grade lower than a C.
 
 ## ARCHIVE
 
-At the end of the term, you will be required to send me an archival .zip file to document your projects.  _If you do not send me the archive, you will fail the class._   _See _ _[Instructions](http://fall2017.designing.tools/syllabus/archive)_
+At the end of the term, you will be required to send me an archival .zip file to document your projects.  _If you do not send me the archive, you will fail the class._   _See [Instructions](http://fall2017.designing.tools/syllabus/archive)_
 
 ## ACADEMIC INTEGRITY
 
@@ -81,8 +80,7 @@ Attendance is required. Students are expected to be on time and remain in class 
 
 ## LATE WORK
 
-—  _Project_ : Every day a project is late it goes down one letter grade.
-
+—  _Project_ : Every day a project is late it goes down one letter grade.  
 —  _Reading questions_ : Late reading questions will not be accepted.
 
 ## EXTENSIONS
@@ -101,12 +99,9 @@ Students should bring their own personal laptops to class. They should also be r
 
 By the end of this course, students will:
 
- — Understand the web as its own public space
-
-— Understand design principles unique to dynamic media
-
-— Be familiar with a range of contemporary art and design practices online
-
-— Feel proficient in HTML and CSS
-
-— Have working knowledge of JavaScript/jQuery— Have complete, well-documented online projects of their very own
+ — Understand the web as its own public space  
+— Understand design principles unique to dynamic media  
+— Be familiar with a range of contemporary art and design practices online  
+— Feel proficient in HTML and CSS  
+— Have working knowledge of JavaScript/jQuery  
+— Have complete, well-documented online projects of their very own

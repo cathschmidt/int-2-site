@@ -1,9 +1,19 @@
 <html>
   <head>
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/global.css">
+    <link rel="stylesheet" href="/assets/home.css">
   </head>
   <body>
+    <div id="marquee">
+      <div>
+        <span>Interactive II, Fall 2017</span>
+        <span>Interactive II, Fall 2017</span>
+      </div>
+    </div>
     <div>{% include nav.html %}</div>
+    <div id="container">
       {{ content }}
+    </div>
   </body>
 </html>
