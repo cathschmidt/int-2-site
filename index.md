@@ -1,11 +1,11 @@
 ---
 
 layout: home
-title: Home
+title: Interaction 2 Fall 2017
 
 ---
 
-# Interactive 2
+# Interactive 2 😎
 
 California College of the Arts
 

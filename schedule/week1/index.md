@@ -20,14 +20,14 @@ back: schedule
 - Break and:
   - Follow steps in  [Exercise: Github](https://drive.google.com/open?id=13pKJu_PolkEE0QpirWeklAn5fnBsYjngXrBM5v59T4c)
   - Read  [The Science of Waiting ... and Waiting ... for Your Page to Load](http://fall2017.designing.tools/library/waiting-to-load)  by Bryan Gardiner
-- Deploy  [P1](http://fall2017.designing.tools/projects/mouse-events)
+- Deploy  [P1](/projects/project-1)
   - Discuss in-class reading
   - What are all the things a 'click' can do?
   - HTML/CSS/JQuery demo for  [50 result charrette](https://docs.google.com/a/cca.edu/document/d/1IpfGPVWUDhejru51IksN-ewtcy_NK2pVnc_jHUZHAwk/edit?usp=sharing)
 
 ## THURSDAY
 
-- Create 3 discussion questions. Include this in the  [Week 2 Google Doc](https://docs.google.com/a/cca.edu/document/d/1cSv_gajKNJDAVpn5WfNgTu9zV5NYgRvebs1q4MPz7uE/edit?usp=sharing)
-  - [I am a Handle](http://fall2017.designing.tools/library/i-am-a-handle)  by Rob Giampietro
+- Create 3 discussion questions. Include this in the  [Week 2 Google Doc](https://docs.google.com/a/cca.edu/document/d/1oimWUjJ5UC_4pwDSavyng_yDx-sTYeq1kHRrB2AA-Cw/edit?usp=sharing)
+  - [I am a Handle](http://www.servinglibrary.org/journal/2/i-am-a-handle)  by Rob Giampietro
 - [50 result charrette](https://docs.google.com/a/cca.edu/document/d/1IpfGPVWUDhejru51IksN-ewtcy_NK2pVnc_jHUZHAwk/edit?usp=sharing)
   - Develop and upload to your class site a single page website which documents 50 possible returns for your chosen action.
