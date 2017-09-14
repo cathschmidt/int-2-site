@@ -8,6 +8,8 @@ back: schedule
 
 # Week 2
 
+[Week 2 Google Doc](https://docs.google.com/a/cca.edu/document/d/1oimWUjJ5UC_4pwDSavyng_yDx-sTYeq1kHRrB2AA-Cw/edit?usp=sharing)
+
 ## TUESDAY
 
 - Discuss  [I am a Handle](http://www.servinglibrary.org/journal/2/i-am-a-handle)  by Rob Giampietro
@@ -27,7 +29,7 @@ back: schedule
 
 ## FOR NEXT WEEK
 
-- Create 3 discussion questions. Post them in the #vernacular-motherboard Slack Channel.
+- Create 3 discussion questions. Post them in the [Week 3 Google Doc](https://docs.google.com/a/cca.edu/document/d/12A2NO2mwpeocpc1cNbu6dzbn8SB4NfBHVvs6Dk_7VQM/edit?usp=sharing).
   - [Vernacular Web pt 2](http://fall2017.designing.tools/library/vernacular-web)  by Olia Lialina, 2007
   - [Mother Earth Mother Board](#)  by Neal Stephenson, 1996
 - Finish your PDF proposals for your microsite
