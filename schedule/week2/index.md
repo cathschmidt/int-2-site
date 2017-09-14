@@ -37,4 +37,4 @@ back: schedule
 ## REMINDER
 
 - Make sure you pasted your class homepage link in the  [Week 1 Google Doc](#)
-- _student_, please prepare your presentation on _topic_
+- _Zoey & Alli_, please prepare your presentation on _Wikileaks_
