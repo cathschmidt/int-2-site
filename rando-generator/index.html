@@ -1,0 +1,93 @@
+<html>
+<head>
+  <title>Rando Person Generator</title>
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+  <script>
+      $(document).ready(function(){
+        // put all my people in an array
+        var people = [
+          "Shiming",
+          "Zoey",
+          "Alli",
+          "Maha",
+          "Megan",
+          "Amy",
+          "Monique",
+          "JiaHue",
+          "Edgar",
+          "Ian",
+          "Elaine",
+          "Divya",
+          "Gabby"
+        ];
+
+        //cycling name animation
+        function nameAnimation(){
+            var x = 0;
+            // set interval for rando animation
+            var intervalID = setInterval(function () {
+              //generate a random person
+              var rando = people[Math.floor(Math.random() * people.length)];
+              //put that name in the span
+              $("#rando span").html(rando);
+              //do this only 10 times, after 10 times stop
+               if (++x === 10) {
+                   window.clearInterval(intervalID);
+               }
+            }, 50);
+        }
+
+        $("#button").click(function(){
+          nameAnimation();
+        });
+
+
+
+      });
+  </script>
+  <style>
+    body {
+      padding: 10vw;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+      color: red;
+      background-color: #ffe136;
+      font-weight: bold;
+    }
+
+    div#rando {
+      width: 40vw;
+      height: 10vw;
+      padding: 5vw;
+      font-size: 8vw;
+      border: .05em solid red;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    div#button {
+      margin: 2vw;
+      padding: 2vw;
+      font-size: 3vw;
+      background-color: red;
+      color: #ffe136;
+      cursor: pointer;
+      box-shadow: 5px 5px 0px rgb(200, 0, 0);
+    } div#button:hover {
+      transform: translate(5px, 5px);
+      box-shadow: none;
+      background-color: rgb(200, 0, 0);
+    }
+
+
+  </style>
+</head>
+<body>
+  <div id="rando"><span></span></div>
+  <div id="button">Give Me A Rando</div>
+</body>
+</html>
