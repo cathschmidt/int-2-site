@@ -85,5 +85,3 @@ Keetra Dean Dixon
 ## CREDIT
 
 Adapted from  [Brian Watterson](http://www.brianwatterson.com/) 's project.
-
- [↑](http://fall2017.designing.tools/projects/css-typeface#top)
