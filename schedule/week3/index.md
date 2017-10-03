@@ -1,7 +1,7 @@
 ---
 
 layout: inner
-title: Schedule — Week 2
+title: Schedule — Week 3
 back: schedule
 
 ---

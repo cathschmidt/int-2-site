@@ -22,3 +22,5 @@ title: Schedule
 [Week 8](week8)
 
 [Week 9](week9)
+
+[Week 10](week10)
