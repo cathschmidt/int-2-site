@@ -11,10 +11,8 @@ back: schedule
 [Week 6 Google Doc](https://docs.google.com/a/cca.edu/document/d/1CboWmh4cyhJkN5WS9wKZk5jT5uyWR_Ls_Sr0WzSwPfI/edit?usp=sharing)
 
 ## TUESDAY
-
-- Gabby present on Grace Hopper
 - In class demo for coding shapes and basic animations
-- Work in class on Exercise: Coding from Life
+- Work in class on [Exercise: Coding from Life](https://docs.google.com/a/cca.edu/document/d/1PBWUHpz0ttDQVEgnGdHp3k86e0LwemglNjhW4p8HCwA/edit?usp=sharing)
 - While students are working on the exercise, Catherine & Clement will have one-on-one discussions for your three typeface directions
 
 ## FOR THURSDAY
@@ -29,6 +27,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 .?!,”“ (punctuation)  
 
 ## THURSDAY
+- Gabby present on Grace Hopper
 - Pin-up your alphabets to discuss
 - Letterform construction demo
 - Continue working on your alphabets and begin coding them
