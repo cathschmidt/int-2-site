@@ -9,6 +9,7 @@
 
 .container {
   overflow: hidden;
+
 }
 
 .container div{
@@ -55,6 +56,11 @@
   transition: all .5s ease;
 }
 
-.c .rect-1:hover {
+/*.c .rect-1:hover {
   width: 20px;
+}*/
+
+
+.shrink {
+  width: 20px !important;
 }
