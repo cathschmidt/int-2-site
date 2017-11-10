@@ -17,3 +17,6 @@ Scroll Position JS & jQuery Demos
 
 [CSS Shapes Letter Demo](letter-demo)
 Constructing a shape out of CSS & animating it
+
+[Positioning](positioning)
+Positioning fun ! !  !
