@@ -1,0 +1,73 @@
+<html>
+<head>
+	<meta encoding="utf-8">
+	<title>Show &amp; Hide &#8600;</title>
+	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+	<style>
+		*{
+			font-family: "Arial";
+			font-size: 5vw;
+		}
+
+		.last-journey {
+			background-color: blue;
+			color: white;
+			width: 100%;
+			height: 2em;
+			position: absolute;
+			bottom: 0;
+			left: 0;
+		}
+
+		figcaption {
+			width: 100vw;
+			height: 40vh;
+			background: blue;
+			color: white;
+			position: absolute;
+			bottom:0;
+			left: 0;
+		}
+
+		.button {
+			border: 2px solid red;
+			box-shadow: 5px 5px 10px blue;
+		}
+
+	</style>
+	<script>
+		$(document).ready(function(){
+
+			//hide caption
+			$("figcaption").hide();
+
+			//when you click button, show figcaption
+			$(".button").click(function(){
+				$(".last-journey").animate({
+					height: "+=40vh"
+				}, 500);
+				$( "figcaption" ).slideDown();
+
+			});
+
+			// hide figcaption when you click figcaption
+			$("figcaption").click(function(){
+				$(this).slideUp(500);
+				$(".last-journey").animate({
+					height: "-=40vh"
+				}, 500);
+			});
+
+		});
+
+	</script>
+</head>
+<body>
+
+	<div class="button">Button</div>
+	<div class="last-journey">RFK's Last Journey</div>
+	<figcaption>Caption</figcaption>
+
+
+</body>
+</html>
