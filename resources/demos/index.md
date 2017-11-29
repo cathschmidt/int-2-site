@@ -24,3 +24,6 @@ Positioning fun ! !  !
 
 [Add Class jQuery](add-class-jquery)
 Adding a class in jQuery
+
+[Show or Hide in jQuery](show-hide)
+Clicking a button to show and hide stuff with jQuery
