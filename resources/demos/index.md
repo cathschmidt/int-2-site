@@ -20,3 +20,7 @@ Constructing a shape out of CSS & animating it
 
 [Positioning](positioning)
 Positioning fun ! !  !
+
+
+[Add Class jQuery](add-class-jquery)
+Adding a class in jQuery
