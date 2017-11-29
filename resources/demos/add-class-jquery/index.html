@@ -1,0 +1,54 @@
+<html>
+<head>
+	<title>jQuery addClass &#8600;</title>
+	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+
+	<style>
+
+		.thing {
+			width: 20%;
+			height: 20%;
+			background-color: blue;
+			border-radius: 50%;
+		}
+
+		.add-animation {
+			animation: my-animation 3s;
+		}
+
+		@keyframes my-animation{
+			0% {
+				background-color: purple;
+			}
+
+			50% {
+
+				background-color: green;
+			}
+
+			75% {
+				background-color: orange;
+			}
+		}
+
+
+	</style>
+	<script>
+
+		$(document).ready(function(){
+
+			$(".thing").click(function(){
+				$(".thing").addClass("add-animation");
+			});
+
+
+		});
+
+	</script>
+</head>
+<body>
+
+	<div class="thing"></div>
+
+</body>
+</html>
