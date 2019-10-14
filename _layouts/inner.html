@@ -1,11 +1,11 @@
 <html>
   <head>
     <title>{{ site.title }}—{{ page.title }}</title>
-    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="/assets/global.css">
+    <link rel="shortcut icon" href="{{site.baseurl}}/assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/global.css">
   </head>
   <body>
-    <p><a href="/{{page.back}}">Back to {{page.back}}</a>
+    <p><a href="{{site.baseurl}}/{{page.back}}">Back to {{page.back}}</a>
     <div id="container">
       {{ content }}
     </div>
